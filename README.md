@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/GremmyBoy/rsschool-cv.git
