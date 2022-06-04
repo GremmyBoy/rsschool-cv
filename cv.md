@@ -13,4 +13,7 @@
 * JS
 * CSS
 
+## Language
+* English - B1
+
 
