@@ -34,13 +34,23 @@ body{
 .main{
     max-width: 1550px;
     width: 100%;
+    margin-top: 50px;
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
     justify-content: space-evenly;
 }
 
 .block{
     width: 650px;
+    margin-bottom: 50px;
+}
+
+.contacts-point a{
+    text-decoration: none;
+    color: forestgreen;
+}
+
+.skills-point span{
+    color: forestgreen;
 }
 
