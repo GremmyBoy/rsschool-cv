@@ -29,5 +29,18 @@ body{
     font-size: 42px;
     text-transform: uppercase;
     color: forestgreen;
-
 }
+
+.main{
+    max-width: 1550px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.block{
+    width: 650px;
+}
+
