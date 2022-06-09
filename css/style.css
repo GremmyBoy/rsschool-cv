@@ -54,3 +54,26 @@ body{
     color: forestgreen;
 }
 
+.footer{
+    max-width: 1550px;
+    width: 100%;
+    margin-top: 90px;
+    background-color: forestgreen ;
+}
+
+.footer-container{
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.rsschool_js-img{
+    width: 250px;
+}
+
+.link-Github a{
+    text-decoration: none;
+    color: black;
+}
+
