@@ -6,3 +6,28 @@ body{
     background: #F2F2F2;
     width: 1550px;
 }
+
+.header{
+    max-width: 1550px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 8px solid forestgreen;
+}
+
+.avatar{
+    margin: 5px 0 10px 0;
+}
+
+.avatar-img{
+    width: 200px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+.name h1{
+    font-size: 42px;
+    text-transform: uppercase;
+    color: forestgreen;
+
+}
