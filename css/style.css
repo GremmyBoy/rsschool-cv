@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body{
+    margin: 20px auto;
+    font-family: 'Inter', sans-serif;
+    background: #F2F2F2;
+    width: 1550px;
+}
+
+.header{
+    max-width: 1550px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 8px solid forestgreen;
+}
+
+.avatar{
+    margin: 5px 0 10px 0;
+}
+
+.avatar-img{
+    width: 200px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+.name h1{
+    font-size: 42px;
+    text-transform: uppercase;
+    color: forestgreen;
+}
+
+.main{
+    max-width: 1550px;
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.block{
+    width: 650px;
+    margin-bottom: 50px;
+}
+
+.contacts-point a{
+    text-decoration: none;
+    color: forestgreen;
+    transition: .3s ease;
+}
+
+.contacts-point a:hover{
+    text-decoration: underline;
+}
+
+.skills-point span{
+    color: forestgreen;
+}
+
+.footer{
+    max-width: 1550px;
+    width: 100%;
+    margin-top: 90px;
+    background-color: forestgreen ;
+}
+
+.footer-container{
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.rsschool_js-img{
+    width: 250px;
+}
+
+.link-Github a{
+    text-decoration: none;
+    color: black;
+    transition: .3s ease;
+}
+
+.link-Github a:hover{
+    color: rgb(226, 231, 236);
+}
+
+
+
