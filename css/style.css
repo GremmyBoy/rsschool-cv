@@ -48,6 +48,11 @@ body{
 .contacts-point a{
     text-decoration: none;
     color: forestgreen;
+    transition: .3s ease;
+}
+
+.contacts-point a:hover{
+    text-decoration: underline;
 }
 
 .skills-point span{
@@ -75,5 +80,12 @@ body{
 .link-Github a{
     text-decoration: none;
     color: black;
+    transition: .3s ease;
 }
+
+.link-Github a:hover{
+    color: rgb(226, 231, 236);
+}
+
+
 
