@@ -2,6 +2,7 @@
 2. My contacts:
    + Mail: bulakea@mail.ru
    + Telegram: +375293501610
+   + Discord: EduardBulak(@GremmyBoy)
 3. My name is Edurad. I'm from Belarus, Minsk. I am studying at BSU on the 4th year graduation.  
    After the university i want to find a good job in IT sphere and i think that ROLLING SCOPES  
    can help me to do this.  
