@@ -14,7 +14,11 @@
         console.log('Hello world!')
     }
     ```
-
+6. Courses:
+   + BELHARD Academy LLC "European Software Development Center", "Modern Front-End using JavaScript and HTML5"
+   + BELHARD Academy LLC "European Software Development Center", "Fundamentals of Website Development"
+7. Langauge:
+   + English B1
 
 
     
